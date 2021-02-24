@@ -1,0 +1,12 @@
+C:\Users\SI-SahajP\source\repos\projCalc\projCalc\bin\Debug\projCalc.exe.config
+C:\Users\SI-SahajP\source\repos\projCalc\projCalc\bin\Debug\projCalc.exe
+C:\Users\SI-SahajP\source\repos\projCalc\projCalc\bin\Debug\projCalc.pdb
+C:\Users\SI-SahajP\source\repos\projCalc\projCalc\bin\Debug\projCalc.xml
+C:\Users\SI-SahajP\source\repos\projCalc\projCalc\obj\Debug\projCalc.vbprojAssemblyReference.cache
+C:\Users\SI-SahajP\source\repos\projCalc\projCalc\obj\Debug\projCalc.Form1.resources
+C:\Users\SI-SahajP\source\repos\projCalc\projCalc\obj\Debug\projCalc.Resources.resources
+C:\Users\SI-SahajP\source\repos\projCalc\projCalc\obj\Debug\projCalc.vbproj.GenerateResource.cache
+C:\Users\SI-SahajP\source\repos\projCalc\projCalc\obj\Debug\projCalc.vbproj.CoreCompileInputs.cache
+C:\Users\SI-SahajP\source\repos\projCalc\projCalc\obj\Debug\projCalc.exe
+C:\Users\SI-SahajP\source\repos\projCalc\projCalc\obj\Debug\projCalc.xml
+C:\Users\SI-SahajP\source\repos\projCalc\projCalc\obj\Debug\projCalc.pdb
